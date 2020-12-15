@@ -2,8 +2,13 @@
 
 Scripts for recording timelapses on an old GoPro camera
 
-> Exposure time 8.5 sec, ISO 6400, 160 frames
+> 160 frames timelapse, Exposure time 8.5 sec, ISO 6400 
 > ![](./assets/demo.gif)
+
+Output images might be noisy. Then try to decrease ISO value. 
+
+> Single shot, Exposure time 8.5 sec, ISO 6400 
+> ![](./assets/shot.jpg)
 
 ## How to use
 
